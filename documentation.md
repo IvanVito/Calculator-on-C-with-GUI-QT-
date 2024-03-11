@@ -100,8 +100,8 @@ The calculator includes various mathematical functions, including:
 
 ## Function Plotting
 * The calculator provides the ability to plot functions. To plot a graph, please click the "Graph" button in the main menu of the application.
-* Range of values is limited from -1 000 000 to 1 000 000
-* Domain is limited from -1 000 000 to 1 000 000
+* Range of values is limited from - 1 000 000 to 1 000 000
+* Domain is limited from - 1 000 000 to 1 000 000
 * The scale remains unchanged and is 1:1
 
 ## Features of the Calculator
@@ -113,8 +113,8 @@ The calculator includes various mathematical functions, including:
 "5 * x" - true
 
 * Spaces (" ") are allowed:
-"5+x" -true
-"5 + x" -true
+"5+x" - true
+"5 + x" - true
 
 * The calculator guarantees accuracy up to 14 digits inclusive (include field "x").
 * The calculator provides only output of numbers or error ("ERROR")
